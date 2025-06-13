@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🟢 Scalable Web Application on AWS
 
@@ -73,3 +74,6 @@ echo "<h1>Deployed from EC2 $(hostname)</h1>" > /usr/share/nginx/html/index.html
 
 - Make sure to **confirm SNS email** subscription
 - Don’t expose ports other than 80/443 in production
+=======
+# Scalable-Web-Application-with-ALB-and-Auto-Scaling
+>>>>>>> 0cc10266d9d63c637b0b01bd496c3b055926cd65
